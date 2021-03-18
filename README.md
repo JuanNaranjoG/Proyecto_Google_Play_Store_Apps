@@ -4,7 +4,7 @@
 
 ## Descripción
 ...
-## Contenido
+## Contenido 📋
 
 Elementos contenidos en este repositorio:
 
@@ -20,3 +20,14 @@ Elementos contenidos en este repositorio:
    [Reporte PDF]: <>
    [Póster]: <>
    [Video]: <>
+
+
+
+## Autores ✒️
+
+_Las siguientes personas colaboraron con el desarrollo del proyecto_
+
+* **Juan Naranjo** - [JuanNaranjoG](https://github.com/JuanNaranjoG)
+
+
+
