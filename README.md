@@ -15,13 +15,13 @@ Elementos contenidos en este repositorio:
 - [Jupyter Notebook] - Notebook con el codigo del proyecto.
 - [Reporte LATEX] - Informe en codigo LATEX.
 - [Reporte PDF] - Informe en formato PDF.
-- [Póster] - Póster que presenta los resu,tados del proyecto.
+- [Póster] - Póster que presenta los resultados del proyecto.
 - [Video] - Video de presentacion del poster.
 
 
    [Jupyter Notebook]: <Jupiter_Notebook/Proyecto_Google_Play_Store_Apps.ipynb>
    [Reporte LATEX]: <Reporte/Reporte.tex>
-   [Reporte PDF]: <>
+   [Reporte PDF]: <Reporte/Reporte.pdf>
    [Póster]: <>
    [Video]: <>
 
